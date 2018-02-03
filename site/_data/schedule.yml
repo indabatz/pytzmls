@@ -2,49 +2,186 @@
   date: "2014-10-24"
   dateReadable: "October 24"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Tutorial and Lab Session", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+        tartTime: "800",
+        endTime: "1030",
+        sessionIds: [001]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        startTime: "1030",
+        endTime: "1100",
+        sessionIds: [308]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+        startTime: "1100",
+        endTime: "1300",
+        sessionIds: [002]
     }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
+
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+        startTime: "1300",
+        endTime: "1400",
+        sessionIds: [309]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "1400",
+        endTime: "1600",
         sessionIds: [003]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+        startTime: "1600",
+        endTime: "1630",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "1630",
+        endTime: "1800",
+        sessionIds: [004]
+    }
+- 
+  date: "2014-10-24"
+  dateReadable: "October 24"
+  tracks: 
+    - {title: "Tutorial and Lab Session", color: "#90be4e"}
+  timeslots:
+    - {
+        tartTime: "800",
+        endTime: "1030",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "1030",
+        endTime: "1100",
+        sessionIds: [308]
+    }
+    - {
+        startTime: "1100",
+        endTime: "1300",
+        sessionIds: [006]
+    }
+
+    - {
+        startTime: "1300",
+        endTime: "1400",
+        sessionIds: [309]
+    }
+    - {
+        startTime: "1400",
+        endTime: "1600",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "1600",
+        endTime: "1630",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "1630",
+        endTime: "1800",
+        sessionIds: [010]
+    }
+- 
+  date: "2014-10-25"
+  dateReadable: "October 27"
+  tracks: 
+    - {title: "ML4Health", color: "#90be4e"}
+    - {title: "Language Processing", color: "#03a9f4"}
+  timeslots:
+    - {
+        tartTime: "800",
+        endTime: "1030",
+        sessionIds: [011,013]
+    }
+    - {
+        startTime: "1030",
+        endTime: "1100",
+        sessionIds: [308]
+    }
+    - {
+        startTime: "1100",
+        endTime: "1300",
+        sessionIds: [012,014]
+    }
+
+    - {
+        startTime: "1300",
+        endTime: "1400",
+        sessionIds: [309]
+    }
+    - {
+        startTime: "1400",
+        endTime: "1600",
+        sessionIds: [011,013]
+    }
+    - {
+        startTime: "1600",
+        endTime: "1630",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "1630",
+        endTime: "1800",
+        sessionIds: [310]
+    }
+    
+- 
+  date: "2014-10-25"
+  dateReadable: "October 27"
+  tracks: 
+    - {title: "Time Series Analysis", color: "#90be4e"}
+    - {title: "Computer Vision", color: "#03a9f4"}
+  timeslots:
+    - {
+        tartTime: "800",
+        endTime: "1030",
+        sessionIds: [015,022]
+    }
+    - {
+        startTime: "1030",
+        endTime: "1100",
+        sessionIds: [308]
+    }
+    - {
+        startTime: "1100",
+        endTime: "1300",
+        sessionIds: [016,023]
+    }
+
+    - {
+        startTime: "1300",
+        endTime: "1400",
+        sessionIds: [309]
+    }
+    - {
+        startTime: "1400",
+        endTime: "1600",
+        sessionIds: [015,022]
+    }
+    - {
+        startTime: "1600",
+        endTime: "1630",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "1630",
+        endTime: "1800",
+        sessionIds: [310]
+    }
+- 
+  date: "2014-10-24"
+  dateReadable: "October 30"
+  tracks: 
+    - {title: " Session", color: "#90be4e"}
+  timeslots:
+    - {
+        tartTime: "800",
+        endTime: "1000",
+        sessionIds: [020]
+    }
+    - {
+        startTime: "1000",
+        endTime: "1100",
+        sessionIds: [021]
     }

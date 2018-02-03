@@ -24,20 +24,20 @@ siteVerification: ""
 organizerName: "pythontz"
 organizerAlternateName: "pythontz"
 organizerDescription: "Open and volunteer python users communities who  share experience about python and its application in machine learning and artificial intelligence."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerEmail: "info@pythontz.or.tz"
+organizerLogo: "/img/seo/pythontz.png"
+organizerLink: "https://pythontz.github.io/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+metaKeywords: "event, pythontz, ML, AI, PytzMLSS2018"
+twitterAccount: "@pythontz"
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeuLx_i7EoNBzqe46hfqllVxge54ln5U12_LT86O7iPqnvKQQ/viewform?usp=sf_link#start=openform"
 
 
 # Navigation
@@ -48,29 +48,31 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeHbM0u9uXBTrK9Vfp0SmMXFa1E_OguWV_tBUgw7fkV_rRHTA/viewform?usp=sf_link", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeHbM0u9uXBTrK9Vfp0SmMXFa1E_OguWV_tBUgw7fkV_rRHTA/viewform?usp=sf_link", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Pythontz Machine Learning Summer School <typeout> (PytzMLS2018)"
-eventDate: "April, 2018"
-typeoutTextValues: '"", "Arusha", "Tanzania"'
-typeoutFallback: "Season"
+eventDate: "2018"
+typeoutTextValues: '"CIVE", "04-06th April", "Dodoma, Tanzania"'
+typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Registration"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdNZA2TdRDYTDaqCaaSvpf8c2vzaQ3YfdzU56mFx3sJaQZuUQ/viewform?usp=sf_link", text: "Registration"}
  - {permalink: "/#tickets", text: "Schedule"}
 
 # About Block
 aboutTitle: "About Pythonz Events"
 aboutBlock:
- - {title: "Summer School", image: "conference.jpg", text: "The first summer school in the country carefully crafted for you by Pythontz! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "We prepare series of hands-on experience workshops, on using python for data science, machine learning and artificial intelligence. [Visit the event page]" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "PytzMLSS2018", image: "conference.jpg", text: "
+ "}
+ - {title: "Our target audience", image: "workshop.jpg", text: " is: In principle, graduate students, doctoral students and researchers in the fields of machine learning and related fields  will be typical profiles of participants. However, there are no formal pre-requisites for attendance in terms of academic degrees. Computer scientists who have interests in  machine learning and AI and Industry practitioners who desire a more in depth understanding of these subjects are also encouraged to participate. No deep previous knowledge of ML is required, but the attendants are assumed to have at least some basic background on basics of linear algebra, probabilities and programming in python. A review on basic concepts and an introduction to the necessary tools for implementation exercises will be given in day zero."}
 
+
+ 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
@@ -115,9 +117,10 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+tweetsFeedTitle: "Whats up?"
+twitterHashTag: "pythontz"
+twitterFeed: "http://https://twitter.com/pythontz/favoritesjson.php?c=10&cache_interval=8000"
+
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -127,8 +130,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeAction: ""
+subscribeInfo: "Registration will be open around end of January. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -174,24 +177,25 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=pythontz", icon: "twitter"}
+ - {link: "https://www.facebook.com/PythonTz", icon: "facebook"}
+ 
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://pythontz.github.io/", text: "pythontz.github.io/"}
+   
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@pythontz.or.tz", text: "info@pythontz.or.tz"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+
 
 # Blog
 blogTitle: "Latest news"
@@ -202,9 +206,12 @@ discusShortName: "devfestua"
 showSessions: false
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Pythontz is a positive peer learning community that comprise of interested python users in Tanzania. We aim to create a vibrant and diverse python community which is open to everyone at all levels."
-
+teamBlockTitle: "About PytzMLSS2018"
+aboutUs: " The five days PytzMLSS2018 summer school will bring together masters, PhD students, researchers and industry practitioners who have interests in  machine learning and AI with aim to equip them with necessary cutting-edge  and hands-on machine learning and AI skills. The school will provide an introduction to the themes and methods of the field through tutorial and hands-on labs activities. The tutorial will cover the foundations of machine learning and deep learning, unsupervised machine learning, and the application of these techniques in health, natural language processing, computer vision, and time-series analysis. The emphasis of the tutorial will be on helping participants to understand the underlying motivation of the state of the arts machine learning and AI techniques and how and why they work. The lab activities  will equip participants on how to apply these techniques to a real world problems in their research and/or in the business career. Lab activities will be based on hands-on training in code development and testing, with application to real data-sets."
+teamsub_1BlockTitle: "Target Audience"
+targetAudience: "In principle, graduate students, doctoral students and researchers in the fields of machine learning and related fields  will be typical profiles of participants. However, there are no formal pre-requisites for attendance in terms of academic degrees. Computer scientists who have interests in  machine learning and AI and Industry practitioners who desire a more in depth understanding of these subjects are also encouraged to participate."
+teamsub_2BlockTitle: "Requirements and Prerequisites"
+confRequirement: "No deep previous knowledge of ML is required, but the attendants are assumed to have at least some basic background on linear algebra, probabilities and programming in python. A review on basic concepts and an introduction to the necessary tools for implementation exercises will be given in day zero. There is no registration fee for students, non-students participants will pay a registration fees of Tsh 200,000."
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
 findWayDistance: "Distance"
